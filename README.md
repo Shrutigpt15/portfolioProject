@@ -18,6 +18,14 @@ Worked on COVID-19 data available freely across the internet and performed explo
     
     
 ### Project-2
+#### Dashboarding and Pivot Tables in Excel
+* Link to Project- [Excel-Project](https://github.com/Shrutigpt15/portfolioProject/blob/main/Excel%20Project.xlsx)
+
+* Guide for the Project-[Guide link](https://www.youtube.com/watch?v=opJgMj1IUrc&ab_channel=AlexTheAnalyst)
+
+* Summary- This small project is to demonstrate my understanding of Pivot tables and Creating small dashboards in Excel.
+Not only does this project focuses on Pivot tables and slicers, It also contains some level of data cleaning to make it more interpretable.
+
    
 
 
