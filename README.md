@@ -26,6 +26,17 @@ This Repository contains projects focused on various phases of the Data Analysis
 * Summary- This small project is to demonstrate my understanding of Pivot tables and Creating small dashboards in Excel.
 Not only does this project focuses on Pivot tables and slicers, It also contains some level of data cleaning to make it more interpretable.
 
-   
+### Project-3
+#### Data cleaning in SQL
+* Link to Project-[DataCleaning-Project](https://github.com/Shrutigpt15/portfolioProject/blob/main/SQLQuerycleaning.sql)
+* Link to dataset- [Nashville_Housing_Data](https://github.com/Shrutigpt15/portfolioProject/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+* Summary- This small project contains queries written in MS SQL server intended to clean the Nashville Housing dataset. I performed various operations such as populating NULL values, removing duplicates, cleaning the addresses, dropping unimportant columns to make the dataset more meaningful for further analysis.
+
+
+### Project-4
+#### Machine Learning in python
+* Link to project-[ML_Project](https://github.com/Shrutigpt15/portfolioProject/blob/main/ML_using_python.ipynb)
+* Link to dataset-[E-commerce_dataset](https://github.com/Shrutigpt15/portfolioProject/blob/main/train.csv)
+* Summary- This project is built around dataset which contains star ratings, reviews, actual price , discount offer, etc. on products on E-commerce websites like Flipkart and Amazon. I started out with running exploratory data analysis on the given dataset to deal with null values and visualised the distributions of different features. Then I imputed some null values and corrected some inconsistencies in data. At last I trained my Machine learning model (XGB Regressor) and fine tuned its parameters to get good predictions.This was a part of a my first Hackathon and I ended up in top 20% of the participiants.
 
 
