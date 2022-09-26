@@ -42,8 +42,8 @@ Not only does this project focuses on Pivot tables and slicers, It also contains
 
 ### Project-5
 #### Creating a Relational database (Library database) with SQL and running some test queries
-* Link to SQL Server Code-
-* Link to Description file-
+* Link to SQL Server Queries-[SQL_queries](https://github.com/Shrutigpt15/portfolioProject/blob/main/SQL_library_correct_v01.sql)
+* Link to Description file-[Word_file](https://github.com/Shrutigpt15/portfolioProject/blob/main/Library_Database_Management_Project_wordReport.docx)
 * Summary- In this small project, I created a relational database in SQL Server which is used for managing the information within a Library and across different branches too. In defining the individual attributes for an entity we have used various constraints such as PRIMARY KEY and FOREIGN KEY for establishing relationships. Then after populating the tables with Information, I wrote different queries answering questions asked from the data.
 
 
