@@ -40,3 +40,10 @@ Not only does this project focuses on Pivot tables and slicers, It also contains
 * Summary- This project is built around dataset which contains star ratings, reviews, actual price , discount offer, etc. on products on E-commerce websites like Flipkart and Amazon. I started out with running exploratory data analysis on the given dataset to deal with null values and visualised the distributions of different features. Then I imputed some null values and corrected some inconsistencies in data. At last I trained my Machine learning model (XGB Regressor) and fine tuned its parameters to get good predictions.This was a part of a my first Hackathon and I ended up in top 20% of the participiants.
 
 
+### Project-5
+#### Creating a Relational database (Library database) with SQL and running some test queries
+* Link to SQL Server Code-
+* Link to Description file-
+* Summary- In this small project, I created a relational database in SQL Server which is used for managing the information within a Library and across different branches too. In defining the individual attributes for an entity we have used various constraints such as PRIMARY KEY and FOREIGN KEY for establishing relationships. Then after populating the tables with Information, I wrote different queries answering questions asked from the data.
+
+
